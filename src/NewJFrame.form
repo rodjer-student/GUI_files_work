@@ -17,7 +17,7 @@
                   <Image iconType="3" name="/images/open.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Open"/>
-                <Property name="toolTipText" type="java.lang.String" value="&#x41e;&#x442;&#x43a;&#x440;&#x44b;&#x442;&#x44c; &#x444;&#x430;&#x439;&#x43b;"/>
+                <Property name="toolTipText" type="java.lang.String" value="Open file"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="openActionPerformed"/>
@@ -29,7 +29,7 @@
                   <Image iconType="3" name="/images/save.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Save"/>
-                <Property name="toolTipText" type="java.lang.String" value="&#x421;&#x43e;&#x445;&#x440;&#x430;&#x43d;&#x438;&#x442;&#x44c; &#x444;&#x430;&#x439;&#x43b;"/>
+                <Property name="toolTipText" type="java.lang.String" value="Save file"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="saveActionPerformed"/>
@@ -43,7 +43,7 @@
                   <Image iconType="3" name="/images/close.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Close"/>
-                <Property name="toolTipText" type="java.lang.String" value="&#x417;&#x430;&#x43a;&#x440;&#x44b;&#x442;&#x44c;"/>
+                <Property name="toolTipText" type="java.lang.String" value="Close"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="closeActionPerformed"/>
